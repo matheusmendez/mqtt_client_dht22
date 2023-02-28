@@ -12,10 +12,12 @@ paho-mqtt = "^1.6.1"
 mysql-connector-python = "^8.0.32"
 numpy = "^1.24.2"
 datetime = "^5.0"
+python-dotenv = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.10.0"
+blue = "^0.9.1"
 
 [build-system]
 requires = ["poetry-core"]

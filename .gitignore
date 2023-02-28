@@ -1,1 +1,4 @@
 .venv/
+mqtt_client_dht22/.env
+mqtt_client_dht22/__pycache__/
+

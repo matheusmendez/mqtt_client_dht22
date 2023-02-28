@@ -5,5 +5,5 @@ CREATE TABLE IF NOT EXISTS db_smt.tb_temp_humi(
 	temp_value FLOAT,
 	humi_value FLOAT,
 	date_time DATETIME,
-	PRIMARY KEY (id_temp_humi)
+	PRIMARY KEY (id)
 	);
